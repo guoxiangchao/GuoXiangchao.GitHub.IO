@@ -12,7 +12,7 @@ Git配置有这么几种情况,下面分别写一下他们配置方法,针对情
 
 ![git](https://cdn.guoxiangchao.com/images/2021-02-13_02175522.png)
 
-<! -- more -->
+<!-- more -->
 
 ### github或gitee单账户更新
 

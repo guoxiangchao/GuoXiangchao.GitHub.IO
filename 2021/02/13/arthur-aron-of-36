@@ -11,7 +11,7 @@
   <meta name="description" content="前言美国心理学家Arthur Aron的团队1997年发表 “The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings”.他们的研究团队让两个陌生人在45分钟内同时相互回答这36问题，看能不能相爱。  研究结论:两个陌生人之间的亲密关系或许可以通过彼此询问一些特">
 <meta property="og:type" content="article">
 <meta property="og:title" content="阿瑟·亚伦（Arthur Aron）的三十六个问题">
-<meta property="og:url" content="https://guoxiangchao.com/2021/02/13/arthur-aron-of-36.html">
+<meta property="og:url" content="https://guoxiangchao.com/2021/02/13/arthur-aron-of-36">
 <meta property="og:site_name" content="XiangChao&#39;s Works">
 <meta property="og:description" content="前言美国心理学家Arthur Aron的团队1997年发表 “The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings”.他们的研究团队让两个陌生人在45分钟内同时相互回答这36问题，看能不能相爱。  研究结论:两个陌生人之间的亲密关系或许可以通过彼此询问一些特">
 <meta property="og:locale" content="zh_CN">
@@ -158,7 +158,7 @@
   
 
         
-        <a href="/2021/02/13/arthur-aron-of-36.html" class="archive-article-date">
+        <a href="/2021/02/13/arthur-aron-of-36" class="archive-article-date">
   	<time datetime="2021-02-13T08:14:40.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2021-02-13</time>
 </a>
         
@@ -272,7 +272,7 @@
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="//pan.baidu.com/share/qrcode?url=https://guoxiangchao.com/2021/02/13/arthur-aron-of-36.html" alt="微信分享二维码">
+      <img src="//pan.baidu.com/share/qrcode?url=https://guoxiangchao.com/2021/02/13/arthur-aron-of-36" alt="微信分享二维码">
     </div>
 </div>
 
@@ -287,7 +287,7 @@
 <nav id="article-nav">
   
   
-    <a href="/2021/02/13/git-configuration.html" id="article-nav-older" class="article-nav-link-wrap">
+    <a href="/2021/02/13/git-configuration" id="article-nav-older" class="article-nav-link-wrap">
       <div class="article-nav-title">git多用户多平台配置</div>
       <i class="icon-circle-right"></i>
     </a>

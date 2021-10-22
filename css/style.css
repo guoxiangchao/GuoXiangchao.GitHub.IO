@@ -4,3 +4,4 @@ h1{text-align: center;}
 .article img{max-width: 100%;}
 .article p{line-height: 1.6;}
 .article li{line-height: 1.6;}
+.foot{max-width: 100%; padding-left: 1em; padding-right: 1em; word-wrap: break-word;}

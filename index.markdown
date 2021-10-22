@@ -3,8 +3,6 @@ layout: default
 title: Guo Xiangchao's Personal Site
 ---
 
-# Guo Xiangchao's Personal Site
-
 Hi there, I am Guo Xiangchao, an Open Source enthusiast. This site is dedicated to providing information about me and my works.
 
 ## Articles

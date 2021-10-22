@@ -9,6 +9,6 @@ Hi there, I am Guo Xiangchao, an Open Source enthusiast. This site is dedicated 
 
 <ul class="posts">
     {% for post in site.posts %}
-      <li>{{ post.date | date_to_string }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li>{{ post.date | date_to_string }} &raquo; <a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

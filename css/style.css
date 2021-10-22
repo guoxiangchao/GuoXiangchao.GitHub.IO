@@ -1,3 +1,4 @@
+html,body{margin: 0; padding: 0;}
 h1{text-align: center;}
-.article{max-width: 100%; padding-left: 1em; padding-right: 1em;}
+.article{max-width: 100%; padding-left: 1em; padding-right: 1em; word-wrap: break-word;}
 .article img{max-width: 100%;}

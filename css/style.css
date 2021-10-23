@@ -1,7 +1,5 @@
 html,body{margin: 0; padding: 0;}
 h1{text-align: center; padding-left: 1em; padding-right: 1em;}
-.article{max-width: 100%; padding-left: 1em; padding-right: 1em; word-wrap: break-word;}
+.article,.foot{max-width: 100%; padding-left: 1em; padding-right: 1em; word-wrap: break-word;}
 .article img{max-width: 100%;display: block; margin: 0 auto;}
-.article p{line-height: 1.6;}
-.article li{line-height: 1.6;}
-.foot{max-width: 100%; padding-left: 1em; padding-right: 1em; word-wrap: break-word;}
+.article p,.article li{line-height: 1.6;}
